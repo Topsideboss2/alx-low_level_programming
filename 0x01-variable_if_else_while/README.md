@@ -1,8 +1,8 @@
-This is my directory for:
+This is my directory for control structures such as:
 * if
 * else
 * while
-* variables 
+ 
 
 ```
 	if (condition)
