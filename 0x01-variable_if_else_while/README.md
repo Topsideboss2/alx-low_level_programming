@@ -10,6 +10,7 @@ This is my directory for:
 	else
 		do_that();
 ```
+and
 ```
 	do {
 		body of do-loop
