@@ -3,7 +3,7 @@ This is my directory for:
 * else
 * while
 * variables 
-and it prints as follows:
+
 ```
 	if (condition)
 		do_this();
