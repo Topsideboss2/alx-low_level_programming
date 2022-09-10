@@ -1,5 +1,5 @@
-#ALX LOW LEVEL PROGRAMMING
-##001-VARIABLE_IF_ELSE_WHILE
+# ALX LOW LEVEL PROGRAMMING
+## 001-VARIABLE_IF_ELSE_WHILE
 This is my directory for control structures such as:
 * if
 * else
