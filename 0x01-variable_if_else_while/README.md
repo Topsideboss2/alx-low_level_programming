@@ -9,3 +9,7 @@ and it prints as follows:
 > >		do_this();
 >	else
 > >		do_that();
+
+>	do {
+> >		body of do-loop
+>	} while (condition);
