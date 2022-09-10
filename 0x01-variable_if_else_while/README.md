@@ -5,12 +5,7 @@ This is my directory for:
 * variables 
 and it prints as follows:
 
-> 	if (condition)
->	{
->		do_this();
->		do_that();
->	}
+>	if (condition)
+> >		do_this();
 >	else
->	{
->		otherwise();
->	}
+> >		do_that();
