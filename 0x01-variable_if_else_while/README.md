@@ -7,10 +7,10 @@ and it prints as follows:
 
 > 	if (condition)
 >	{
-> >		do_this();
-> >		do_that();
+>		do_this();
+>		do_that();
 >	}
 >	else
 >	{
-> >		otherwise();
+>		otherwise();
 >	}
