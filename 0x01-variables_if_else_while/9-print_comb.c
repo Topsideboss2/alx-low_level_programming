@@ -10,17 +10,17 @@
  */
 int main(void)
 {
-	int i, coma, nine;
+	int i;
 
-	coma = ',';
-	nine = '9';
-
-	for (i = '0'; i <= '8'; i++)
+	for (i = '0'; i <= '9'; i++)
 	{
 		putchar(i);
-		putchar(coma);
+		if (i != '9')
+		{
+			putchar(',');
+			putchar(' ');
+		}
 	}
-	putchar(nine);
 	putchar('\n');
 	return (0);
 }
