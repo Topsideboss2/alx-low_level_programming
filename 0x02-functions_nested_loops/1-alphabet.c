@@ -1,6 +1,4 @@
-#include <stdlib.h>
-#include <std.io>
-#include <time.h>
+#include "main.h" 
 
 /**
  * print_alphabet - prints the alphabet
