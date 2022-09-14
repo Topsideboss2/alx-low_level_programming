@@ -8,20 +8,11 @@
 
 void print_alphabet(void)
 {
-	char a;
+	int n;
 
-	for (a = 'a'; a <= 'z'; a++)
-		putchar(a);
-
-}
-
-/**
- * main - Execute
- *
- * Return: Always 0
- */
-int main(void)
-{
-	print_alphabet();
-	return (0);
+	for (n = 'a'; n <= 'z'; n++)
+	{
+		putchar(n);
+	}
+	_putchar(\n);
 }
