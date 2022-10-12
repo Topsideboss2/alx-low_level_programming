@@ -17,9 +17,7 @@ int main(int argc, char *argv[])
 		prinf("Error\n");
 		return (1);
 	}
-
 	cents = atoi(argv[1]);
-
 	while (cents > 0)
 	{
 		if (cents >= 25)
