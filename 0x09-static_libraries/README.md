@@ -1,1 +1,1 @@
-This is my new static libraries directory
+THIS IS MY NEW STATIC LIBRARIES DIRECTORY
