@@ -14,7 +14,7 @@
 typedef struct op
 {
 	char *op;
-	int (*if)(int a, int b);
+	int (*f)(int a, int b);
 } opt_t;
 
 int op_add(int a, int b);
